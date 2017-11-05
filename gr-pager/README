@@ -2,9 +2,9 @@ This GNU Radio component implements a FLEX radiopager receiver/demodulator.
 
 FLEX pager towers are between 929 MHz and 932 MHz at 25 KHz centers.
 
-Current status (7/16/07):
+Current status (11/05/17):
 
-FLEX receiving is completed except for addition of BCH error correction.
+FLEX receiving is completed.
 
 There are three scripts:
 
